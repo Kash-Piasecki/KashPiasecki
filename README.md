@@ -6,7 +6,9 @@ Hello everyone. I'm trying to become **junior java developer**. Here you can see
 * Basic website with usage of html/css only
 * Spring Boot project
 
-![](images/github-logo.png) 
+<img src="https://raw.githubusercontent.com/KashPiasecki/KashPiasecki/master/images/github-logo.png">
+
+ <!-- ![](images/github-logo.png) -->
 
 <!--
 **KashPiasecki/KashPiasecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
