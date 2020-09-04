@@ -4,7 +4,7 @@
 </head>
 
 
-### Łukasz Piasecki's repository 
+### <i class="fas fa-male"></i>Łukasz Piasecki's repository 
 
 Hello everyone. I'm trying to become **junior java developer**. Here you can see my repositories, where I will be trying to upload projects as they're developed. For now there are only 3 basic ones:
 
