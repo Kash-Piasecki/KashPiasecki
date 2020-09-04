@@ -1,10 +1,4 @@
-<head>
- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css"
-        integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous"> 
-</head>
-
-
-### <i class="fas fa-male"></i>Łukasz Piasecki's repository 
+### Łukasz Piasecki's repository 
 
 Hello everyone. I'm trying to become **junior java developer**. Here you can see my repositories, where I will be trying to upload projects as they're developed. For now there are only 3 basic ones:
 
