@@ -4,7 +4,7 @@ Hello everyone. I'm trying to become **junior java developer**. Here you can see
 
 * Pure Java command line MiniGame
 * Basic website with usage of html/css only
-* Spring Boot project
+* Spring Boot project (currently learning)
 
 <img src="https://raw.githubusercontent.com/KashPiasecki/KashPiasecki/master/images/github-logo.png">
 
