@@ -1,10 +1,6 @@
 ### Łukasz Piasecki's repository 
 
-Hello everyone. I'm trying to become **junior java developer**. Here you can see my repositories, where I will be trying to upload projects as they're developed. For now there are only 3 basic ones:
-
-* Pure Java command line MiniGame
-* Basic website with usage of html/css only
-* Spring Boot project (currently learning)
+Hello everyone. I'm trying to become **junior developer**. Here you can see my repositories, where I will be trying to upload projects as they're developed. For now there are only few basic ones.
 
 <img src="https://raw.githubusercontent.com/KashPiasecki/KashPiasecki/master/images/github-logo.png">
 
